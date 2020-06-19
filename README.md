@@ -5,6 +5,7 @@ The chosen figlet font (ANSI Shadow) is perfect for minimap visualization. Comme
 - js
 - sh, bash
 - yml, yaml
+- css, scss, sass
 - coffee
 - html
 - md
